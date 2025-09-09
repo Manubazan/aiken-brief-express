@@ -1,0 +1,54 @@
+[
+  {
+    "cliente": "Vanina",
+    "origen": "Rosario (ROS)",
+    "destino": "Río de Janeiro (GIG)",
+    "fechas": {
+      "desde": "2025-11-10",
+      "hasta": "2025-11-17"
+    },
+    "pasajeros": {
+      "adultos": 2,
+      "menores": 0
+    },
+    "habitaciones": {
+      "dobles": 1,
+      "triples": 0,
+      "simples": 0
+    },
+    "preferencias": {
+      "zona": "cerca de la playa",
+      "desayuno": true,
+      "categoria": "3-4*"
+    },
+    "presupuesto_ars": 1200000,
+    "pago": "tarjeta en cuotas",
+    "comentarios": "Quieren 7 días exactos. Flexibles en horarios, no en fechas."
+  },
+  {
+    "cliente": "Grupo empresa",
+    "origen": "Ezeiza (EZE)",
+    "destino": "DXB → CJU → KUL → EZE",
+    "fechas": {
+      "desde": "2025-10-09",
+      "hasta": "2025-10-26"
+    },
+    "pasajeros": {
+      "adultos": 40,
+      "menores": 4
+    },
+    "habitaciones": {
+      "dobles": 18,
+      "triples": 6,
+      "simples": 2
+    },
+    "preferencias": {
+      "zona": "céntrico",
+      "desayuno": true,
+      "categoria": "4*"
+    },
+    "presupuesto_ars": 45000000,
+    "pago": "mixto (ARS/USD)",
+    "comentarios": "Necesitan sala para reunión en Dubai y Kuala Lumpur; escalas razonables."
+  }
+]
